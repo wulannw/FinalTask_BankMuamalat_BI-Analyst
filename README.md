@@ -24,15 +24,16 @@ Click on the image below to open the presentation:
 ## 📊 Dashboard Preview 
 Click on the image below to open the interactive dashboard:  
 
-[![Tableau Dashboard](https://github.com/Akbar-Handika/Final-Task-BI-Bank-Muamalat/blob/d1e140419d191f2b56bb68227318076075b0250f/Dashboard.png)](https://public.tableau.com/views/SalesPerformanceDashboard_17384082028770/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Tableau Dashboard](https://github.com/wulannw/FinalTask_BankMuamalat_BI-Analyst/blob/main/Dashboard_Preview.png)](https://lookerstudio.google.com/reporting/4585ab2b-4cfa-43d2-a468-a7d36bd79d7b/page/yoIEF)
 
-## 🛠️ Tools & Technologies Used:
-- PostgreSQL – For data storage and SQL queries.
-- Tableau – For creating insightful data visualizations.
-- GitHub – For storing SQL queries and analysis results.
-- Canva – For structuring reports and presentations.
-- YouTube – For presenting a project summary video.
+## 🛠️ Tools & Technologies Utilized:  
+- **BigQuery** – Used for data storage, querying, and transformation.
+- **dbdiagram.io** – Applied for designing Entity-Relationship Diagrams (ERD) to map database structures.    
+- **Looker Studio** – Employed to create interactive and insightful data visualizations.  
+- **GitHub** – Served as a repository for SQL queries and analytical outputs.  
+- **Canva** – Utilized for structuring reports and crafting presentations.  
+- **YouTube** – Used as a platform to present a project summary video.  
 
-Through this experience, I gained a deeper understanding of Business Intelligence workflows and enhanced my skills in SQL, data visualization, and data-driven problem-solving.
+Through this experience, I gained a deeper understanding of Business Intelligence workflows and enhanced my skills in SQL, data visualization, and data-driven decision-making.
 
 Skills: Statistics · Business Acumen · Excel Data Processing · SQL Operation · Data Visualization · BI Tools: Dashboard
