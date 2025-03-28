@@ -19,7 +19,7 @@ Data Analysis & Business Insights – Extracting valuable insights and providing
 
 ## 🖼️ Presentation Preview
 Click on the image below to open the presentation: 
-[![Preview PPT](https://github.com/Akbar-Handika/Final-Task-BI-Bank-Muamalat/blob/eb3247125caf7275c1fba474508bd97172b61134/Sales%20Performance%20Report%20Preview.jpeg)](https://www.canva.com/design/DAGh86i0Xy4/E8AKEdsdsDGQkcF24lRW2A/edit?utm_content=DAGh86i0Xy4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![Preview PPT](https://github.com/wulannw/FinalTask_BankMuamalat_BI-Analyst/blob/main/FinalTask_Preview.png)](https://www.canva.com/design/DAGh86i0Xy4/E8AKEdsdsDGQkcF24lRW2A/edit?utm_content=DAGh86i0Xy4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 📊 Dashboard Preview 
 Click on the image below to open the interactive dashboard:  
