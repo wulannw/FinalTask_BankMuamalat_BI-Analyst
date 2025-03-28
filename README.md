@@ -8,11 +8,14 @@ As a participant in the Business Intelligence Analyst Virtual Internship at Bank
 
 The program started with learning modules, including reading materials and video sessions, covering key concepts such as Business Intelligence, SQL, and data visualization. I also completed various assessments to test my understanding before tackling the final project.
 
-Final Project: Business Intelligence for Sales Performance Analysis
+**Final Project: Business Intelligence for Sales Performance Analysis**
+
 In this project, I took on the role of a Business Intelligence Analyst at PT Sejahtera Bersama, where I conducted an in-depth analysis of sales performance and provided data-driven business recommendations.
 
-Key Responsibilities:
-Data Preparation – Importing datasets into Google BigQuery, performing data cleaning and transformation using SQL queries, defining table relationships, and optimizing the database structure for efficient analysis.
+**Key Responsibilities:**
+
+Data Preparation 
+– Importing datasets into Google BigQuery, performing data cleaning and transformation using SQL queries, defining table relationships, and optimizing the database structure for efficient analysis.
 Master Table Creation – Constructing well-structured tables using SQL to facilitate comprehensive data analysis.
 Dashboard Development – Designing interactive dashboards in Looker Studio to visualize sales trends, top-selling product categories, and regional sales distribution.
 Data Analysis & Business Insights – Extracting valuable insights and providing strategic recommendations to support data-driven decision-making.
